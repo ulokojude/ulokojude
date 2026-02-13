@@ -77,14 +77,8 @@ I focus on:
 <h2>📫 Connect With Me</h2>
 
 <p>
-📧 Email: your@email.com <br>
+📧 Email: myadonaitech@gmail.com <br>
 💼 Open to collaboration and freelance opportunities.
 </p>
-
 <hr>
-
-<div align="center">
-  
-⭐️ “Code. Build. Improve. Repeat.”
-
-</div>
+<h3>You are highly welcome</h3>
