@@ -57,6 +57,7 @@ I focus on:
 <h2>🔥 What I'm Currently Working On</h2>
 
 <ul>
+  <li>Mini web Hosting Platform</li>
   <li>🛒 Advanced E-commerce Web Application</li>
   <li>zero to lunch PHP websites</li>
 </ul>
