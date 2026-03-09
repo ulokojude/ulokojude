@@ -58,8 +58,7 @@ I focus on:
 
 <ul>
   <li>🛒 Advanced E-commerce Web Application</li>
-  <li>📦 Backend API Development with PHP</li>
-  <li>📱 Improving UI/UX and performance optimization</li>
+  <li>zero to lunch PHP websites</li>
 </ul>
 
 <hr>
